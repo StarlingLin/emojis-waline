@@ -1,0 +1,33 @@
+{
+  "name": "魔女的夜宴",
+  "prefix": "sw_",
+  "type": "webp",
+  "icon": "ciallo-nn",
+  "items": [
+    "ahhh",
+    "annoy",
+    "bashful",
+    "blush",
+    "check",
+    "ciallo-mgr",
+    "ciallo-nn",
+    "ciallo-tmg",
+    "ciallo-tuk",
+    "ciallo-wkn",
+    "flustered",
+    "hehe",
+    "meow",
+    "naive",
+    "noth-can-do",
+    "pat",
+    "perform",
+    "play",
+    "poke",
+    "pour-tea",
+    "sob",
+    "this",
+    "wah",
+    "whine",
+    "zzz"
+  ]
+}
